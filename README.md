@@ -1,1 +1,1 @@
-# Matina-Translate
+# Tradutor de Imagens do Matina
